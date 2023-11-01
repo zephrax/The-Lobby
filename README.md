@@ -1,5 +1,5 @@
 # The-Lobby
-i
+
 Welcome to OctoHigh, the #1 rated High School in the Octoverse! If you want to participate in the end-of-the-school-year challenges this year, head over to [this issue](https://github.com/OctoHigh/The-Lobby/issues/1) and sign up!
 
 ---
